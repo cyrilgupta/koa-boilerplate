@@ -1,0 +1,6 @@
+Project workflow
+
+- Follow videos and find which ads are playing on them
+- Search for keywords and find out which ads played in the resulting videos
+- Bookmark an ad, and keep a log of where it played?
+

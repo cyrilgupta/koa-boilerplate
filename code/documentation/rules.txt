@@ -1,0 +1,4 @@
+Here are some rules to prep this app
+
+- You don't want to close the instances of the browser, as much as possible. Keep it running, because running it is costly.
+- Need to be able to poll a URL to find out which videos to look at

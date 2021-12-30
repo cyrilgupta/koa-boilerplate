@@ -1,0 +1,26 @@
+1. Search for domain
+This can only be done in our ready database
+
+2. Search for keyword
+This can also be done only in our ready database
+
+3. Search ads from a channel
+This can also be done only in our ready database
+
+4. Follow a channel
+Keep an eye on a channel's video and see who is targeting it
+
+5. Follow a video
+Keep an eye on a video and see who is targeting it
+
+6. New ads
+report the new ads collected (datewise?)
+
+So basically... The ad collection works by 
+1. Chrome plugin that is embedded on people's browsers
+2. A limited set of crawlers that are following channels and videos
+
+=====
+
+You have to create a meanderer... A crawler that just keeps visiting random youtube videos.
+How will you do that?
